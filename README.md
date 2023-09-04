@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madelinepdx
-- 👀 I’m interested in full stack development
-- 🌱 I’m studying a remote course on Codecademy
+- 👀 I’m interested in all things coding
+- 🌱 I’m studying a remote course (full stack development) with Codecademy
 - 📫 Message me at madelinepdx@gmail.com
 
 <!---
